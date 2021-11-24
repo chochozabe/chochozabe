@@ -1,7 +1,6 @@
 <div align="center">
 
 ## Hello, I'm Yeo Kyoung Kim 👋
----
 <br>
 
 ![aliceInWonderland](./img/Alice-in-Wonderland-quotes.gif)
