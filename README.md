@@ -6,7 +6,9 @@
 ![aliceInWonderland](./img/Alice-in-Wonderland-quotes.gif)
 
 ### 📌 Info
-SQISOFT (2018.11 - current) | Web Developer 
+SQISOFT (2018.11 - 2022.03) | Web Developer 
+<br>
+Betterway Systems (2022.04 - ) | Frontend Developer 
 <br>
 <br>
 
