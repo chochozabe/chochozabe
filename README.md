@@ -8,7 +8,7 @@
 ### 📌 Info
 SQI SOFT (2018.11 - 2022.03) | Web Developer 
 <br>
-Betterway Systems (2022.04 - ) | Frontend Developer 
+Betterway Systems (2022.04 - 24.09) | Frontend Developer 
 <br>
 <br>
 
